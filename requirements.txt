@@ -1,0 +1,4 @@
+openai
+requests
+pydub
+python-dotenv 
