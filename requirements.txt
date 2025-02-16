@@ -2,3 +2,4 @@ openai
 requests
 pydub
 python-dotenv 
+boto3
